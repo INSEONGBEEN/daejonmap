@@ -8,8 +8,7 @@
 
 ## Live Demo
 
-http://localhost:8888/lab/tree/crime_cctv_with_circle_buffer_daejeon.html  
-[crime_cctv_with_circle_buffer_daejeon.html](http://localhost:8888/lab/tree/crime_cctv_with_circle_buffer_daejeon.html)
+https://inseongbeen.github.io/daejonmap/crime_cctv_with_circle_buffer_daejeon.html
 
 ## GitHub Repo
 
@@ -113,9 +112,10 @@ API KEY로 인증 후 `folium.raster_layers.WmsTileLayer`로 시각화 구현
 
 ---
 
-## 🧩 결과물 예시 (스크린샷 첨부 권장)
+## 🧩 결과물 예시
 
-> 결과 지도: `crime_cctv_with_circle_buffer_daejeon.html`
+> 결과 지도:
+> `(https://inseongbeen.github.io/daejonmap/crime_cctv_with_circle_buffer_daejeon.html)`
 
 대전역 주변의 CCTV와 범죄주의구간을 한눈에 볼 수 있도록 시각화 완료  
 CCTV 커버리지를 원형으로 표현하여 시각적으로 직관적인 이해 가능
